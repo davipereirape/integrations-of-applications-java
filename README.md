@@ -3,4 +3,4 @@ Projects of studies about Integrations of Applications Java using Web Services R
 
 # REST
 - Project Loja:
-    - It was used the Web Service REST with JAX-RS and JERSEY. The grizzly was used as server.
+    - It was used the Web Service REST with JAX-RS and Jersey. The grizzly was used as server.
