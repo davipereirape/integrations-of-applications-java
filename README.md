@@ -1,5 +1,5 @@
 # REST
-Projects about web service REST.
+ Projects of studies about Integrations of Applications Java. Like Web Services REST and SOAP, applications JMS and ActiveMQ among others.
 
-- Projeto Loja:
-    - Neste projeto do curso alura, é utilizado o REST através do JERSEY e JAX-RS. É utilizado o grizzly para montar o servidor!
+- Project Loja:
+    - It was used the Web Service REST with JAX-RS and JERSEY. The grizzly was used as server.
