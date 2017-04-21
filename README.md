@@ -1,5 +1,5 @@
 # Integrations of Applications Java
-Projects of studies about Integrations of Applications Java. Like Web Services REST and SOAP, applications JMS and ActiveMQ among others.
+Projects of studies about Integrations of Applications Java using Web Services REST and SOAP, applications JMS and ActiveMQ among others.
 
 # REST
 - Project Loja:
