@@ -1,0 +1,29 @@
+DEPENDÊNCIAS POM
+
+<!-- https://mvnrepository.com/artifact/org.glassfish.grizzly/grizzly-http-servlet -->
+	<dependency>
+	    <groupId>org.glassfish.grizzly</groupId>
+	    <artifactId>grizzly-http-servlet</artifactId>
+	    <version>2.3.30</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-client -->
+	<dependency>
+	    <groupId>org.glassfish.jersey.core</groupId>
+	    <artifactId>jersey-client</artifactId>
+	    <version>2.25.1</version>
+	</dependency>
+	
+	<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.core/jersey-server -->
+	<dependency>
+	    <groupId>org.glassfish.jersey.core</groupId>
+	    <artifactId>jersey-server</artifactId>
+	    <version>2.25.1</version>
+	</dependency>
+
+	<!-- https://mvnrepository.com/artifact/org.glassfish.jersey.containers/jersey-container-grizzly2-servlet -->
+	<dependency>
+	    <groupId>org.glassfish.jersey.containers</groupId>
+	    <artifactId>jersey-container-grizzly2-servlet</artifactId>
+	    <version>2.25.1</version>
+	</dependency>
